@@ -1,0 +1,27 @@
+===============================================================================================
+
+#Requierment
+- PHP minimal versi 8.1
+- MySQL minimal versi 7.8
+
+
+===============================================================================================
+
+
+CARA MENJALANKAN :
+
+1. buka folder db/ lalu importkan db_news.sql ke phpMyAdmin
+2. Masukkan folder ke htdocs untuk XAMPP, jika menggunakan laragon masukkan ke www
+3. jalankan apache dan mysql lalu buka di web browser
+
+
+
+
+
+
+
+
+
+
+================================================================================================
+irfan / https://github.com/davinchi-X
